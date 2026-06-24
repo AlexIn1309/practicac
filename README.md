@@ -1,7 +1,12 @@
 # practicac
 
-En este repositorio me enfocare en aprender las bases de c#
+Se practica endpoints RESTful con node JS, Express y SQLite
 
-## TODO
+## Tecnologias
 
-Agregar linea de texto a capitulo 2
+- Alpine
+- Node JS Runtime
+- JavaScript
+- SQLite
+
+
